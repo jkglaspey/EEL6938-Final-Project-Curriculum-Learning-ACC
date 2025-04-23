@@ -1,0 +1,92 @@
+=== Easy Section Metrics ===
+Average Reward: -0.147
+
+=== Speed Tracking ===
+MAE: 0.129 m/s
+RMSE: 0.364 m/s
+R2 Score: -0.174
+
+=== Distance Maintenance ===
+Mean Distance: 13.942 m
+Time in Safe Zone (5-30m): 100.0%
+Min Distance: 6.356 m
+Max Distance: 14.590 m
+
+=== Comfort Metrics ===
+Mean Jerk: -0.000 m/s^2
+Max Jerk: 2.379 m/s^3
+Jerk Variance: 0.076 m^2/s^6
+
+=== Speed Difference with Lead ===
+Mean Absolute Difference: 0.129 m/s
+
+
+=== Medium Section Metrics ===
+Average Reward: -0.601
+
+=== Speed Tracking ===
+MAE: 0.501 m/s
+RMSE: 0.630 m/s
+R2 Score: 0.459
+
+=== Distance Maintenance ===
+Mean Distance: 14.141 m
+Time in Safe Zone (5-30m): 100.0%
+Min Distance: 11.069 m
+Max Distance: 16.757 m
+
+=== Comfort Metrics ===
+Mean Jerk: 0.000 m/s^2
+Max Jerk: 3.001 m/s^3
+Jerk Variance: 0.914 m^2/s^6
+
+=== Speed Difference with Lead ===
+Mean Absolute Difference: 0.501 m/s
+
+
+=== Difficult Section Metrics ===
+Average Reward: -1.247
+
+=== Speed Tracking ===
+MAE: 1.060 m/s
+RMSE: 1.330 m/s
+R2 Score: 0.675
+
+=== Distance Maintenance ===
+Mean Distance: 14.230 m
+Time in Safe Zone (5-30m): 100.0%
+Min Distance: 6.838 m
+Max Distance: 20.994 m
+
+=== Comfort Metrics ===
+Mean Jerk: 0.000 m/s^2
+Max Jerk: 3.888 m/s^3
+Jerk Variance: 2.977 m^2/s^6
+
+=== Speed Difference with Lead ===
+Mean Absolute Difference: 1.060 m/s
+
+
+=== Overall Section Metrics ===
+Average Reward: -0.665
+
+=== Speed Tracking ===
+MAE: 0.564 m/s
+RMSE: 0.875 m/s
+R2 Score: 0.635
+
+=== Distance Maintenance ===
+Mean Distance: 14.105 m
+Time in Safe Zone (5-30m): 100.0%
+Min Distance: 6.356 m
+Max Distance: 20.994 m
+
+=== Comfort Metrics ===
+Mean Jerk: 0.000 m/s^2
+Max Jerk: 3.888 m/s^3
+Jerk Variance: 1.322 m^2/s^6
+
+=== Speed Difference with Lead ===
+Mean Absolute Difference: 0.564 m/s
+
+
